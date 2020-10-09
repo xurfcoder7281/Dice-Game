@@ -10,6 +10,10 @@
 
 }
 
+.dice:hover{
+  transform: translateY(-10px);
+}
+
 body {
   background-color: #393E46;
 }
