@@ -1,5 +1,5 @@
 <h1>DICE GAME</h1>
-<p>A Simple Dice Game usig HTML, CSS, JAVASCRIPT
+<p>A Simple Dice Game usig HTML, CSS, JAVASCRIPT for beginners. to create issues, use first-timers-only. Happy coding for Hacktoberfest 2020 
 
 
 <h3>Table of Contents</h3><br>
@@ -8,30 +8,28 @@ Description<br>
 Technologies Using<br>
 Contributers Guide<br>
 
-Getting Started - Local Development<br>
-Introduction
-This project aims to help creating a simple game using html, css3 and javascript
+<h6>Getting Started - Local Development</h6><br>
+Introduction<br>
+This project aims to help creating a simple game using html, css3 and javascript<br>
 
-Description<br>
-On the frontend we are using HTML, CSS , JAVASCRIPT
+<h6>Description</h6><br>
+On the frontend we are using HTML, CSS , JAVASCRIPT<br>
 
-Technologies Using
+<h6>Technologies Using</h6><br>
+CSS v3.0<br>
+Bootstrap 4.5.2.<br>
 
-CSS v3.0
-Bootstrap 4.5.2.
+<h6>Contributers Guide</h6><br>
+To contribute to hassle free, follow these steps:<br>
+Fork this repository.<br>
+Create a branch: git checkout -b <branch_name>.<br>
+Make your changes and commit them: git commit -m '<commit_message>'<br>
+Push to the original branch: git push origin <project_name>/<location><br>
+Create the pull request.<br>
+Alternatively see the GitHub documentation on creating a pull request.<br>
 
-Contributers Guide
-To contribute to hassle free, follow these steps:
-
-Fork this repository.
-Create a branch: git checkout -b <branch_name>.
-Make your changes and commit them: git commit -m '<commit_message>'
-Push to the original branch: git push origin <project_name>/<location>
-Create the pull request.
-Alternatively see the GitHub documentation on creating a pull request.
-
-Getting Started
-To get started locally, follow these instructions:
-If you haven't done it already, make a fork of this repo.
-Clone to your local computer using git.
-Make sure that to create pull request.
+<h6>Getting Started</h6><br>
+To get started locally, follow these instructions:<br>
+If you haven't done it already, make a fork of this repo.<br>
+Clone to your local computer using git.<br>
+Make sure that to create pull request.<br>
