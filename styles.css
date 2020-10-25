@@ -1,6 +1,10 @@
+/* body {
+  background-color: #393E46;
+} */
 .container {
   width: 70%;
-  margin: auto;
+  margin-top:80px;
+ 
   text-align: center;
 }
 
@@ -14,32 +18,35 @@
   transform: translateY(-10px);
 }
 
-body {
-  background-color: #393E46;
-}
-
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
-  color: #4ECCA3;
+  color: #a7cccc;
 }
 
 p {
-  font-size: 2rem;
-  color: #4ECCA3;
+  font-size: 3rem;
+  color: #86e6ec;
   font-family: 'Indie Flower', cursive;
 }
 
 img {
   width: 80%;
 }
-
 footer {
   margin-top: 5%;
-  color: #EEEEEE;
+  color: #b9c9c9;
   text-align: center;
   font-family: 'Indie Flower', cursive;
 
+}
+.player1wins{
+  color:#197a3a
+}
+.player2wins{
+  color:#7a3419
+}
+.draw{
+  color:#7a7819
 }
