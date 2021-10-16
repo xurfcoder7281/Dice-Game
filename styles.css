@@ -28,7 +28,7 @@ h1 {
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
+  color: green;
   font-family: 'Indie Flower', cursive;
 }
 
@@ -38,7 +38,7 @@ img {
 
 footer {
   margin-top: 5%;
-  color: #EEEEEE;
+  color: red;
   text-align: center;
   font-family: 'Indie Flower', cursive;
 
